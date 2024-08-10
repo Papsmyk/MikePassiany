@@ -1,5 +1,5 @@
 
-Hi there , I'm Mike Passiany.
+Hi there, I'm Mike Passiany.
 I'm a GIS Analyst | Data Engineer | ML Engineer.
 
 🔭 I’m currently working on GIS, Artificial Intelligence(AI)/Deep Learning & Machine Learning models.
