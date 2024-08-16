@@ -37,7 +37,7 @@
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
-<!-- 
+
 
 ![Mike's github stats](https://github-readme-stats.vercel.app/api?username=Papsmyk&show_icons=true&theme=vue-dark)
 
@@ -46,7 +46,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://twitter.com/Mike__Passiany)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://ke.linkedin.com/in/59b641a2)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Papsmyk)](https://github.com/MPapsmyk/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Papsmyk)](https://github.com/MPapsmyk/github-readme-stats)
 <!-- **Papsmyk/Papsmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
